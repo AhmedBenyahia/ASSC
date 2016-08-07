@@ -1,0 +1,109 @@
+
+.navbar	 {
+  background-color: #f7f7f7;
+}
+
+.navbar a {
+  color: rgb(0,0,0) ;
+  font-size: 16px ;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-style: oblique;
+
+}
+
+.navbar .navbar-inverse li {
+  display: inline;
+}
+ .logo {
+   padding-left: 10px;
+ }
+
+ .titel .jumbotron{
+  background-image:url('./img/1');
+  height: 700px  ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-right: 30px;
+  padding-top: 100px;
+}
+
+.jumbotron .container-fluid {
+  position: relative;
+  top:100px;
+
+}
+
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.jumbotron p {
+  font-size: 35px;
+  color: #fff;
+}
+
+.connect ul.social-badges {
+    margin-bottom: 45px;
+}
+
+ul.social-badges {
+    padding: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    margin: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    width: 250px;
+}
+
+
+
+.news  h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+
+.news  p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.news  a {
+  font-size: 15px;
+  font-weight: bold;
+  color:#00b0ff ;
+
+}
+
+
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.connect h4 {
+  font-size: 15px;
+  font-style: oblique;
+  font-weight: bold;
+}

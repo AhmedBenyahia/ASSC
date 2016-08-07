@@ -1,0 +1,77 @@
+
+.navbar	 {
+  background-color: #f7f7f7;
+}
+
+.navbar a {
+  color: rgb(0,0,0) ;
+  font-size: 16px ;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-style: oblique;
+
+}
+
+.navbar .navbar-inverse li {
+  display: inline;
+}
+ .logo {
+   padding-left: 10px;
+ }
+
+
+
+
+
+.news  h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+
+.news  p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.news  a {
+  font-size: 15px;
+  font-weight: bold;
+  color:#00b0ff ;
+
+}
+
+
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.connect h4 {
+  font-size: 15px;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+
+
+.intro h1 {
+  padding: 5px;
+  font-size: 25px;
+  font-style: oblique;
+}
+
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
